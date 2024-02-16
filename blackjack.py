@@ -81,7 +81,7 @@ def deal_player():
 
     player_score_label.set(player_score)
     if player_score >21:
-        result_text.set("Dealer Win!")
+        result_text.set("Dealer Wins!")
 
 
 def new_game():
